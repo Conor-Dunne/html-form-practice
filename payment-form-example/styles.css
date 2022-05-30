@@ -40,7 +40,7 @@ input[type=radio] {
 }
 
 input:focus, textarea:focus {
-    background-color: #000;
+    background-color: rgb(221, 221, 221);
 }
 
 textarea {
@@ -57,7 +57,7 @@ fieldset {
 }
 
 button {
-    margin: 20px 0 0 124;
+    margin: 20px 0 0 124px;
 }
 
 label {

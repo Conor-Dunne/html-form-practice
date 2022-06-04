@@ -75,6 +75,7 @@ label {
 
 input:required {
     border-color: black;
+    margin-top: 20px;
 }
 
 input:optional {
@@ -99,5 +100,9 @@ input + span {
     background-color: black;
     padding: 5px 10px;
     top: -26px;
-    left: -70px;
+    left: -61px;
   }
+
+ #no-display {
+      color: rgb(70, 105, 170)
+  } 
